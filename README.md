@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🌱 Generally I code desktop application, website with flask. But I’m currently learning Object Detection, Image Processing. 
 - 📫 How to reach me: bayramahmet48@gmail.com
-- Linkedin : <a href="https://www.linkedin.com/in/ahmetfurkaann/">Ahmet Furkan Bayram</a>
+- Linkedin : <a href="https://www.linkedin.com/in/ahmet-furkan-bayram/">Ahmet Furkan Bayram</a>
 
 <img src="https://github-readme-stats.vercel.app/api?username=ahmetfurkaann&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetfurkaann&theme=tokyonight ">
