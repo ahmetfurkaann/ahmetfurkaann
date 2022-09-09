@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 Generally I code desktop application with java or website with flask. But I’m currently learning Object Detection, Image Processing. 
+- 🌱 I am currently interested in Object Detection, Image Processing, Object Detection and I am doing projects. As a hobby, I code desktop applications with Java and websites with Python-Flask.
 - 📫 How to reach me: bayramahmet48@gmail.com
 - Linkedin : <a href="https://www.linkedin.com/in/ahmet-furkan-bayram/">Ahmet Furkan Bayram</a>
 
