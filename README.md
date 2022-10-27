@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I am currently interested in Object Detection, Image Processing, Object Detection and I am doing projects. As a hobby, I code desktop applications with Java and websites with Python-Flask.
+- 🌱 I am currently interested in Object Detection, Segmentation, Image Processing and I am doing projects. As a hobby, I code desktop applications with Java and websites with Python-Flask.
 - 📫 How to reach me: bayramahmet48@gmail.com
 - Linkedin : <a href="https://www.linkedin.com/in/ahmet-furkan-bayram/">Ahmet Furkan Bayram</a>
 
